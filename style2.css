@@ -1,0 +1,43 @@
+body {
+    background-color: lightblue; padding: 20px;
+    margin-left: 2cm;
+    margin-right: 2cm;
+  }
+
+
+  div {
+      background-color: blueviolet; padding: 50px;
+    }
+  span {
+      color: red; background-color: snow;
+    }
+  
+  h3 {
+        text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  table{
+      width: 100%;
+      align-content: center;
+      text-align: center;
+      border: 1px solid #000
+  }
+
+  th {
+    align-content: center;
+    text-align: center;
+    border: 1px solid #000
+  }
+  td {
+    align-content: center;
+    text-align: center;
+    border: 1px solid #000
+  }
+
+
+ 
